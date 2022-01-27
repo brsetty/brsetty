@@ -1,6 +1,6 @@
 ### Hi, I am Revanth 👋
 :iphone:I am interested in making life easier by designing robust embedded devices<br/>
-:mortar_board:I am pursuing master in computer engineering
+:mortar_board:I am pursuing masters in computer engineering
 
 
 📫 Reach me at 
