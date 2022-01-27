@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I am Revanth 👋
+:iphone:I am interested in making life easier by designing robust embedded devices<br/>
+:mortar_board:I am pursuing master in computer engineering
 
+
+📫 Reach me at 
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](http://www.linkedin.com/in/revanth-badadha-b6719015b/)
 <!--
 **brsetty/brsetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
